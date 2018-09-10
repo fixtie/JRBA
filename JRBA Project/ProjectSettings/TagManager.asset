@@ -41,3 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Buidling
+    uniqueID: 1871271265
+    locked: 0
